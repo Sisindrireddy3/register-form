@@ -1,0 +1,38 @@
+.sisi{
+    height:270px;
+    width:  290px;
+    background-color:violet;
+    margin-left: 550PX;
+    margin-top: 150px;
+    border-radius: 20px;    
+}
+.sisi1{
+    padding-left:40px;
+    border-radius:20px ;
+}
+button{
+margin-left: 25px;
+border-radius: 20px;
+width: 180px;
+height: 30px;
+}
+span{
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    background-color: white;
+
+}
+.sunny1{
+    padding-left: 30px;
+}
+.sunny2{
+    padding-left: 30px;
+}
+.sunny3{
+    padding-left: 30px;
+}
+.sunny4{
+    padding-left: 30px;
+}
+
